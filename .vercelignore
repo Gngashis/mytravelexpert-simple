@@ -1,0 +1,27 @@
+# Dependency & build outputs
+node_modules
+.next
+out
+build
+dist
+
+# Large workspace data & local profiles
+chrome-automation-profile
+antigravity_dev.db
+acceptance-test-run
+playwright-verification
+zed-automation
+exports
+logs
+tmp
+scripts
+design-library
+extracted-data
+
+# Documentation & internal audits
+ANTIGRAVITY_COMPLETE_AI_BENEFITS_AND_SUBSCRIPTIONS_AUDIT.md
+PERMANENT_USER_OPERATING_REQUIREMENT.md
+DELIVERY_REPORT.md
+
+# OS
+.DS_Store
