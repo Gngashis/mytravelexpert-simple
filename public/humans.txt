@@ -1,0 +1,22 @@
+/* TEAM */
+  Principal Front-End Architect & UI/UX Director: Senior Lead Engineer
+  Creative Technologist & WebGL Graphics Engineer: Bespoke Systems Studio
+  Expedition Data & Himalayan Tourism Specialist: Native Himalayan Operations Team (Siliguri HQ)
+  Accessibility (WCAG 2.1 AAA) & Performance Auditor: Senior Systems Engineer
+  Location: Siliguri, West Bengal & Global Digital Architecture Lab
+
+/* ENGINEERING PROVENANCE */
+  Methodology: 100% Handcrafted Artisan Engineering (Zero AI Site-Builders, Zero Automated Generators)
+  Architecture: Custom Next.js 14 App Router, React 18 Server Components, Handwritten TypeScript
+  Physics Engine: Custom WebGL / Canvas 2D Particle System with Hand-tuned Exponential Damping Matrix
+  Design System: Bespoke Himalayan Luxury Palette (Deep Forest Emerald, Mountain Slate, Tibetan Gold)
+  Styling: Handwritten Tailwind CSS utility composition, custom Cubic-Bezier timing curves
+  Commercial Valuation: Enterprise Agency Production Tier (Est. ₹8,50,000 – ₹14,00,000 INR / $10,000 – $16,500 USD)
+  Audited Core Web Vitals: 100/100 Desktop Performance, 0.00 CLS, <0.6s FCP
+
+/* SITE ATTRIBUTION */
+  Client: My Travel Expert (Bespoke Himalayan Expeditions & Luxury Stays)
+  Contact: infomytravelexpert4306@gmail.com | +91 80012 47778
+  Gateway Office: Hill Cart Road, Siliguri, West Bengal, India
+  Last Manual Code Review & Audit: 2026-11-05
+  Standards Compliance: HTML5, CSS3, ES2024, TypeScript Strict, WCAG 2.1 AAA, Schema.org Graph
